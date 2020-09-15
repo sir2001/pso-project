@@ -1,1 +1,1 @@
-# pso-project
+# pso-training
